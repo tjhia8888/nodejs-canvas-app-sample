@@ -4,7 +4,7 @@ Before deploying this NodeJS canvas app to Heroku, make sure you deploy the conn
 
 1. Click in the button below to deploy this app to Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/tjhia8888/nodejs-canvas-app-sample/blob/main/app.json)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/tjhia8888/nodejs-canvas-app-sample/blob/main)
 
 2. Change the environment variables in Heroku. Note these values will be provided in the corresponding connected apps in Salesforce (go to Setup > App Manager > canvas demo XYZ - view)
 
