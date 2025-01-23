@@ -1,6 +1,6 @@
 ## Salesforce Canvas Demo
 
-Before deploying this NodeJS canvas app to Heroku, make sure you deploy the connected apps and VF pages available in this [repo](https://github.com/CodeScience/canvas-demo)
+Before deploying this NodeJS canvas app to Heroku, make sure you deploy the connected apps and VF pages available in this [repo](https://github.com/tjhia8888/canvas-demo)
 
 1. Click in the button below to deploy this app to Heroku:
 
